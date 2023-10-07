@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is a React Hook?",
+      "options": [
+        "A type of fishing gear",
+        "A function that allows you to hook into React state and lifecycle features",
+        "A method for creating React components",
+        "A tool for debugging React applications"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": "Which built-in React Hook allows you to add state to a functional component?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useContext",
+        "useReducer"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": "What does the useEffect Hook in React do?",
+      "options": [
+        "It allows you to fetch data from an API",
+        "It allows you to manage component state",
+        "It allows you to perform side effects in functional components",
+        "It allows you to define propTypes for a component"
+      ],
+      "correctOption": 2
+    },
+    {
+      "question": "Which Hook is used for managing side effects in React?",
+      "options": [
+        "useState",
+        "useEffect",
+        "useContext",
+        "useReducer"
+      ],
+      "correctOption": 1
+    },
+    {
+      "question": "What is the purpose of the useContext Hook in React?",
+      "options": [
+        "To create a context provider",
+        "To consume context values in a functional component",
+        "To fetch data from an API",
+        "To manage component state"
+      ],
+      "correctOption": 1
+    }
+  ]
+}
